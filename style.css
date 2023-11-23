@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
 *,
 *::before,
 *::after {
@@ -93,7 +95,7 @@ section.character::before {
 }
 
 .boros {
-  background-color: rgb(255, 255, 255)
+  background-color: rgb(255, 255, 255);
 }
 
 .boros::before,
